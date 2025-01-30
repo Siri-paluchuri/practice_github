@@ -15,6 +15,7 @@ public String getempId()
 public void setempName(String empName)
 {
 	this.empName=empName;
+	System.out.println("siri");
 }
 public String getempName()
 {
